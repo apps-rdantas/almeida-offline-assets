@@ -2,127 +2,136 @@
   "manifest_version": "1.0.0",
   "app_name": "Almeida Offline",
   "release_tag": "v1.0.0",
+  "encrypted": true,
+  "encryption_algorithm": "SQLCipher 4 (AES-256-CBC)",
+  "encryption_engine": "SQLCipher / sqflite_sqlcipher",
   "base_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0",
   "languages": {
     "pt": {
       "name": "Portuguese",
       "native_name": "Português",
+      "encrypted": true,
       "tools": {
         "file_name": "biblical_tools_pt.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_pt.db.gz",
-        "size_bytes": 28826983,
-        "size_mb": 27.49,
-        "sha256": "c17e61f9bd4e124fd89d4f591f6227ea5eb35f63a14e5631bed04351c28c4a2a"
+        "size_bytes": 84895049,
+        "size_mb": 80.96,
+        "sha256": "3780f9c65db3d02de12c25a3a5f14e38a449ee2d367523a8c553a67a1eff1ce8"
       },
       "bible": {
         "file_name": "bible_pt.db.gz",
         "bible_name": "João Ferreira de Almeida (JFA)",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_pt.db.gz",
-        "size_bytes": 5086178,
-        "size_mb": 4.85,
-        "sha256": "df8b8dbb3e8111ce733f80056eeab3661da65d9c1b489d1d66920384622b4504"
+        "size_bytes": 14090474,
+        "size_mb": 13.44,
+        "sha256": "fe197efbd0f64da5ed7ddfab335f052934dfbc193e4400d6c9f0ef2cae4428ad"
       },
-      "total_download_mb": 32.34
+      "total_download_mb": 94.4
     },
     "en": {
       "name": "English",
       "native_name": "English",
+      "encrypted": true,
       "tools": {
         "file_name": "biblical_tools_en.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_en.db.gz",
-        "size_bytes": 28192599,
-        "size_mb": 26.89,
-        "sha256": "68f794d0610b8832bcdfa7b5888e9e6859163ae0c85fe0980bfeb70775caca34"
+        "size_bytes": 83333998,
+        "size_mb": 79.47,
+        "sha256": "85fa50d3b9b05f4cdc3525d7328d30f396b69c403b3353a4fadf0f9b815f7273"
       },
       "bible": {
         "file_name": "bible_en.db.gz",
         "bible_name": "King James Version (KJV)",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_en.db.gz",
-        "size_bytes": 5445021,
-        "size_mb": 5.19,
-        "sha256": "7321d25b21cc4852eee587a815410689a845212927c01d72150bb0fb3bdec2fa"
+        "size_bytes": 16007987,
+        "size_mb": 15.27,
+        "sha256": "cb80ac6c7eb92927b6a360a93a997e1d4233a293ae017afcffefc580972e815a"
       },
-      "total_download_mb": 32.08
+      "total_download_mb": 94.74
     },
     "es": {
       "name": "Spanish",
       "native_name": "Español",
+      "encrypted": true,
       "tools": {
         "file_name": "biblical_tools_es.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_es.db.gz",
-        "size_bytes": 28795292,
-        "size_mb": 27.46,
-        "sha256": "f261702ef81941dd2afb83915ae99b0ee47f51f7000c6330959f3e0d27bf873f"
+        "size_bytes": 84968802,
+        "size_mb": 81.03,
+        "sha256": "9aa689b97fb6a5393343cffc81c1fa3b4aa566ee7a15a7ad6bee3b72a3405524"
       },
       "bible": {
         "file_name": "bible_es.db.gz",
         "bible_name": "Reina-Valera 1909",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_es.db.gz",
-        "size_bytes": 3377752,
-        "size_mb": 3.22,
-        "sha256": "b574ae0c318aa421b1b7f85569607db784dcccda9e6296100a483c1fcecc7590"
+        "size_bytes": 9431902,
+        "size_mb": 8.99,
+        "sha256": "abb1e105a1c47c861b54b367bb4f87f81362a89a311994fbf79d6e3b34589aaa"
       },
-      "total_download_mb": 30.68
+      "total_download_mb": 90.02
     },
     "de": {
       "name": "German",
       "native_name": "Deutsch",
+      "encrypted": true,
       "tools": {
         "file_name": "biblical_tools_de.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_de.db.gz",
-        "size_bytes": 29147731,
-        "size_mb": 27.8,
-        "sha256": "765398018bded1532c82093b70b3a0c9440d69ad77b34db26159e03350a0a408"
+        "size_bytes": 85743181,
+        "size_mb": 81.77,
+        "sha256": "763468392b3ba85a251ed5edb121a88c0b2a27646aa99f19f173cf6defbaac62"
       },
       "bible": {
         "file_name": "bible_de.db.gz",
         "bible_name": "Luther Bibel (1912)",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_de.db.gz",
-        "size_bytes": 3406170,
-        "size_mb": 3.25,
-        "sha256": "7050cc3c5360e586d7a48c741999c6e6fd567144cac348932937a16998a81f13"
+        "size_bytes": 9612181,
+        "size_mb": 9.17,
+        "sha256": "f9df9268243609cc7a000fe6a26bd4379ec304dcf2a68223cc95e8164bb99056"
       },
-      "total_download_mb": 31.05
+      "total_download_mb": 90.94
     },
     "it": {
       "name": "Italian",
       "native_name": "Italiano",
+      "encrypted": true,
       "tools": {
         "file_name": "biblical_tools_it.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_it.db.gz",
-        "size_bytes": 28797808,
-        "size_mb": 27.46,
-        "sha256": "f79c2ade145678a064eba38503f3063a06d4f3fa9e11a2cdfd39540c50693e33"
+        "size_bytes": 84944216,
+        "size_mb": 81.01,
+        "sha256": "15783bb850485b6cc566cdf58f595cd5deba8a59b3c6036e4b0a543a85e6a1ab"
       },
       "bible": {
         "file_name": "bible_it.db.gz",
         "bible_name": "Giovanni Diodati Bibbia (1649)",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_it.db.gz",
-        "size_bytes": 3651018,
-        "size_mb": 3.48,
-        "sha256": "4eebe74d83d79a9b9756743df16bc06b777e37ea32bba90e84fed17e1836fb23"
+        "size_bytes": 10263640,
+        "size_mb": 9.79,
+        "sha256": "91bf42da3abc610db0a90fbb16e298237ddcbc751c90775080862b8473bc8995"
       },
-      "total_download_mb": 30.95
+      "total_download_mb": 90.8
     },
     "ja": {
       "name": "Japanese",
       "native_name": "日本語",
+      "encrypted": true,
       "tools": {
         "file_name": "biblical_tools_ja.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_ja.db.gz",
-        "size_bytes": 29509803,
-        "size_mb": 28.14,
-        "sha256": "ed93250dd9a636e5782d9f2a8ff1b2ee6409c3024581be6a33a91a0fdbca27cc"
+        "size_bytes": 89254523,
+        "size_mb": 85.12,
+        "sha256": "b269401224ad7dcdb287ad5f02d0fe76d478028b318f5a72bca0ec4138a5db8e"
       },
       "bible": {
         "file_name": "bible_ja.db.gz",
         "bible_name": "口語訳聖書 (Kougo-yaku 1954/1955)",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_ja.db.gz",
-        "size_bytes": 9732328,
-        "size_mb": 9.28,
-        "sha256": "167ad847a09ae3a7daecf973ef16bac06dd300acfbae735690655ebc2837ebb2"
+        "size_bytes": 25636522,
+        "size_mb": 24.45,
+        "sha256": "dfa953919ca1b86735a1b4660393eebf64f703b3b76fd1508e132a745e74fcb1"
       },
-      "total_download_mb": 37.42
+      "total_download_mb": 109.57
     }
   }
 }
