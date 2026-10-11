@@ -119,19 +119,19 @@
       "tools": {
         "file_name": "biblical_tools_ja.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_ja.db.gz",
-        "size_bytes": 164947112,
-        "size_mb": 157.31,
-        "sha256": "63ca2b1245e20925813a2c106547028da49341d8ca7f148a95bd9fdb46f30d1e"
+        "size_bytes": 169507350,
+        "size_mb": 161.65,
+        "sha256": "a488cfbe7e40e2b1779dce8223f5329dbc88233cb066f8022e5506322236885e"
       },
       "bible": {
         "file_name": "bible_ja.db.gz",
         "bible_name": "口語訳聖書 (Kougo-yaku 1954/1955)",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_ja.db.gz",
-        "size_bytes": 48478687,
-        "size_mb": 46.23,
-        "sha256": "5a8e217f04aa6b47e7995033e56cbf9f6970970363c1f5961199078f4df0ad6c"
+        "size_bytes": 54784356,
+        "size_mb": 52.25,
+        "sha256": "923d7a1adc6668c659fd8cd0607bc44db4dfc1ec7324f56129b8b49e16fe45da"
       },
-      "total_download_mb": 203.54
+      "total_download_mb": 213.9
     }
   }
 }
