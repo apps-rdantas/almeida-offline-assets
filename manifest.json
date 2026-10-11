@@ -14,9 +14,9 @@
       "tools": {
         "file_name": "biblical_tools_pt.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_pt.db.gz",
-        "size_bytes": 84895049,
-        "size_mb": 80.96,
-        "sha256": "3780f9c65db3d02de12c25a3a5f14e38a449ee2d367523a8c553a67a1eff1ce8"
+        "size_bytes": 84936024,
+        "size_mb": 81.0,
+        "sha256": "6116f7143bc422dce2ac98cf534563459eb5f910b1afba0af05ed11ac6536001"
       },
       "bible": {
         "file_name": "bible_pt.db.gz",
@@ -26,7 +26,7 @@
         "size_mb": 13.44,
         "sha256": "fe197efbd0f64da5ed7ddfab335f052934dfbc193e4400d6c9f0ef2cae4428ad"
       },
-      "total_download_mb": 94.4
+      "total_download_mb": 94.44
     },
     "en": {
       "name": "English",
@@ -35,9 +35,9 @@
       "tools": {
         "file_name": "biblical_tools_en.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_en.db.gz",
-        "size_bytes": 83333998,
-        "size_mb": 79.47,
-        "sha256": "85fa50d3b9b05f4cdc3525d7328d30f396b69c403b3353a4fadf0f9b815f7273"
+        "size_bytes": 83338094,
+        "size_mb": 79.48,
+        "sha256": "d6acab7765094f20b29c9ebfd05c8a0ff664d93bc45569fd4c29dac51a8d467e"
       },
       "bible": {
         "file_name": "bible_en.db.gz",
@@ -47,7 +47,7 @@
         "size_mb": 15.27,
         "sha256": "cb80ac6c7eb92927b6a360a93a997e1d4233a293ae017afcffefc580972e815a"
       },
-      "total_download_mb": 94.74
+      "total_download_mb": 94.75
     },
     "es": {
       "name": "Spanish",
@@ -56,9 +56,9 @@
       "tools": {
         "file_name": "biblical_tools_es.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_es.db.gz",
-        "size_bytes": 84968802,
-        "size_mb": 81.03,
-        "sha256": "9aa689b97fb6a5393343cffc81c1fa3b4aa566ee7a15a7ad6bee3b72a3405524"
+        "size_bytes": 85013868,
+        "size_mb": 81.08,
+        "sha256": "2dc820f498cfbdd4de91c9a430478e51c9f590dd73b7258466fe3cfd1e54b8fa"
       },
       "bible": {
         "file_name": "bible_es.db.gz",
@@ -68,7 +68,7 @@
         "size_mb": 8.99,
         "sha256": "abb1e105a1c47c861b54b367bb4f87f81362a89a311994fbf79d6e3b34589aaa"
       },
-      "total_download_mb": 90.02
+      "total_download_mb": 90.07
     },
     "de": {
       "name": "German",
@@ -77,9 +77,9 @@
       "tools": {
         "file_name": "biblical_tools_de.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_de.db.gz",
-        "size_bytes": 85743181,
-        "size_mb": 81.77,
-        "sha256": "763468392b3ba85a251ed5edb121a88c0b2a27646aa99f19f173cf6defbaac62"
+        "size_bytes": 85775959,
+        "size_mb": 81.8,
+        "sha256": "7ce8d717ba3b27f1fc0a4bd8fbb0ae6e1fb0d5ea1632ba62b229bd357ece210c"
       },
       "bible": {
         "file_name": "bible_de.db.gz",
@@ -89,7 +89,7 @@
         "size_mb": 9.17,
         "sha256": "f9df9268243609cc7a000fe6a26bd4379ec304dcf2a68223cc95e8164bb99056"
       },
-      "total_download_mb": 90.94
+      "total_download_mb": 90.97
     },
     "it": {
       "name": "Italian",
@@ -98,9 +98,9 @@
       "tools": {
         "file_name": "biblical_tools_it.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_it.db.gz",
-        "size_bytes": 84944216,
-        "size_mb": 81.01,
-        "sha256": "15783bb850485b6cc566cdf58f595cd5deba8a59b3c6036e4b0a543a85e6a1ab"
+        "size_bytes": 84981090,
+        "size_mb": 81.04,
+        "sha256": "53718114f20bbc3f5cb11620fde3f219258c56b4718b03ecb77b7ab1e0d773f9"
       },
       "bible": {
         "file_name": "bible_it.db.gz",
@@ -110,7 +110,7 @@
         "size_mb": 9.79,
         "sha256": "91bf42da3abc610db0a90fbb16e298237ddcbc751c90775080862b8473bc8995"
       },
-      "total_download_mb": 90.8
+      "total_download_mb": 90.83
     },
     "ja": {
       "name": "Japanese",
@@ -119,9 +119,9 @@
       "tools": {
         "file_name": "biblical_tools_ja.db.gz",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/biblical_tools_ja.db.gz",
-        "size_bytes": 89254523,
-        "size_mb": 85.12,
-        "sha256": "b269401224ad7dcdb287ad5f02d0fe76d478028b318f5a72bca0ec4138a5db8e"
+        "size_bytes": 89307786,
+        "size_mb": 85.17,
+        "sha256": "106c3aac5d90673069819a1bd86bf500dd1e8195d7e9d068f85f537bf983e8c3"
       },
       "bible": {
         "file_name": "bible_ja.db.gz",
@@ -131,7 +131,7 @@
         "size_mb": 24.45,
         "sha256": "dfa953919ca1b86735a1b4660393eebf64f703b3b76fd1508e132a745e74fcb1"
       },
-      "total_download_mb": 109.57
+      "total_download_mb": 109.62
     }
   }
 }
