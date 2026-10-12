@@ -14,7 +14,7 @@ Upon first launch (or when downloading additional study languages), the mobile a
 
 | Language | Tools Package | Tools Size | Tools SHA-256 | Companion Bible | Bible Size | Bible SHA-256 | Total Download |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Português (PT)** | `biblical_tools_pt.db.gz` | 27.49 MB | `c17e61f9bd4e124f...` | `bible_pt.db.gz` *(JFA)* | 4.85 MB | `df8b8dbb3e8111ce...` | **32.34 MB** |
+| **Português (PT)** | `biblical_tools_pt.db.gz` | 27.49 MB | `c17e61f9bd4e124f...` | `bible_pt.db.gz` *(JFA)* | 17.77 MB| `4283c430321e6650...` | **102.4 MB** |
 | **English (EN)** | `biblical_tools_en.db.gz` | 26.89 MB | `68f794d0610b8832...` | `bible_en.db.gz` *(KJV)* | 5.19 MB | `7321d25b21cc4852...` | **32.08 MB** |
 | **Español (ES)** | `biblical_tools_es.db.gz` | 27.46 MB | `f261702ef81941dd...` | `bible_es.db.gz` *(RV 1909)* | 3.22 MB | `b574ae0c318aa421...` | **30.68 MB** |
 | **Deutsch (DE)** | `biblical_tools_de.db.gz` | 27.80 MB | `765398018bded153...` | `bible_de.db.gz` *(Luther 1912)* | 3.25 MB | `7050cc3c5360e586...` | **31.05 MB** |

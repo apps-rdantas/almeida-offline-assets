@@ -22,11 +22,11 @@
         "file_name": "bible_pt.db.gz",
         "bible_name": "João Ferreira de Almeida (JFA)",
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/bible_pt.db.gz",
-        "size_bytes": 14090474,
-        "size_mb": 13.44,
-        "sha256": "fe197efbd0f64da5ed7ddfab335f052934dfbc193e4400d6c9f0ef2cae4428ad"
+        "size_bytes": 18630227,
+        "size_mb": 17.77,
+        "sha256": "4283c430321e6650f64eaa9cc25753c26267b180d9ad4e9dc2fb936d2d9d24cd"
       },
-      "total_download_mb": 98.07
+      "total_download_mb": 102.4
     },
     "en": {
       "name": "English",
