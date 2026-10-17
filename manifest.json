@@ -26,7 +26,15 @@
         "size_mb": 17.77,
         "sha256": "4283c430321e6650f64eaa9cc25753c26267b180d9ad4e9dc2fb936d2d9d24cd"
       },
-      "total_download_mb": 102.4
+      "total_download_mb": 102.4,
+      "apocrypha": {
+        "file_name": "apocrypha_pt.db.gz",
+        "name": "Livros Deuterocanônicos / Apócrifos",
+        "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/apocrypha_pt.db.gz",
+        "size_bytes": 2089634,
+        "size_mb": 1.99,
+        "sha256": "a840ef4bbb8175b19cc4d2c13354a88b9ff9b4496eb62fb84c3240996e711953"
+      }
     },
     "en": {
       "name": "English",
@@ -47,7 +55,15 @@
         "size_mb": 15.27,
         "sha256": "cb80ac6c7eb92927b6a360a93a997e1d4233a293ae017afcffefc580972e815a"
       },
-      "total_download_mb": 98.11
+      "total_download_mb": 98.11,
+      "apocrypha": {
+        "file_name": "apocrypha_en.db.gz",
+        "name": "World English Bible (WEB) Apocrypha & Deuterocanon",
+        "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/apocrypha_en.db.gz",
+        "size_bytes": 3425335,
+        "size_mb": 3.27,
+        "sha256": "54640e2d15f89109905886f8589ede24a4a79cea7634c7cf2e2b3f0cb210205f"
+      }
     },
     "es": {
       "name": "Spanish",
@@ -89,7 +105,15 @@
         "size_mb": 9.17,
         "sha256": "f9df9268243609cc7a000fe6a26bd4379ec304dcf2a68223cc95e8164bb99056"
       },
-      "total_download_mb": 94.63
+      "total_download_mb": 94.63,
+      "apocrypha": {
+        "file_name": "apocrypha_de.db.gz",
+        "name": "Die Apokryphen nach Martin Luther (1912)",
+        "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/apocrypha_de.db.gz",
+        "size_bytes": 2097826,
+        "size_mb": 2.0,
+        "sha256": "edebe0d386f4667a44910248f365c9e818f113ab2a03782ee767b6b1a29bd7ec"
+      }
     },
     "it": {
       "name": "Italian",
