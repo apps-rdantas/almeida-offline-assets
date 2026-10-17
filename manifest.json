@@ -33,7 +33,7 @@
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/apocrypha_pt.db.gz",
         "size_bytes": 2089634,
         "size_mb": 1.99,
-        "sha256": "a840ef4bbb8175b19cc4d2c13354a88b9ff9b4496eb62fb84c3240996e711953"
+        "sha256": "5f9992fb65730503b459440196057389d3dfd6014e9748b1010f4174ea50e6e4"
       }
     },
     "en": {
@@ -62,7 +62,7 @@
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/apocrypha_en.db.gz",
         "size_bytes": 3425335,
         "size_mb": 3.27,
-        "sha256": "54640e2d15f89109905886f8589ede24a4a79cea7634c7cf2e2b3f0cb210205f"
+        "sha256": "ce15bf31d0396bfb9e64e90f62140eb143194306ae81930480dced256a89bf6d"
       }
     },
     "es": {
@@ -84,7 +84,15 @@
         "size_mb": 8.99,
         "sha256": "abb1e105a1c47c861b54b367bb4f87f81362a89a311994fbf79d6e3b34589aaa"
       },
-      "total_download_mb": 93.74
+      "total_download_mb": 93.74,
+      "apocrypha": {
+        "file_name": "apocrypha_es.db.gz",
+        "name": "Libros Deuterocanónicos (Biblia Platense / Straubinger)",
+        "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/apocrypha_es.db.gz",
+        "size_bytes": 2142897,
+        "size_mb": 2.04,
+        "sha256": "4ffcbe687ec4500c440067f31a299f9d28f4aebb7cd825f406afc0283443782b"
+      }
     },
     "de": {
       "name": "German",
@@ -112,7 +120,7 @@
         "download_url": "https://github.com/apps-rdantas/almeida-offline-assets/releases/download/v1.0.0/apocrypha_de.db.gz",
         "size_bytes": 2097826,
         "size_mb": 2.0,
-        "sha256": "edebe0d386f4667a44910248f365c9e818f113ab2a03782ee767b6b1a29bd7ec"
+        "sha256": "f3578b05ebe7bc1bacd3955044619e0a188d5c57d8984650f62082d68c7ceed8"
       }
     },
     "it": {
